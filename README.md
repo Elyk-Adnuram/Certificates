@@ -21,7 +21,8 @@ The certificates are organized into directories, usually by course name, platfor
 
 ## How to View
 To view the certificates, see the links below:
-* **GitHub Profile:** [https://github.com/Elyk-Adnuram](https://github.com/Elyk-Adnuram)
+* **Front-End Web Development: LinkedIn Learning:**([https://github.com/Elyk-Adnuram](https://elyk-adnuram.github.io/Certificates/pages/certificate3.html
+))
 * **GitHub Profile:** [https://github.com/Elyk-Adnuram](https://github.com/Elyk-Adnuram)
 * **GitHub Profile:** [https://github.com/Elyk-Adnuram](https://github.com/Elyk-Adnuram)
 * **GitHub Profile:** [https://github.com/Elyk-Adnuram](https://github.com/Elyk-Adnuram)
