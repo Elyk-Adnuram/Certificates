@@ -36,6 +36,6 @@ This repository is primarily for showcasing personal achievements and is not int
 
 ## Contact
 For any inquiries or further information, you can reach out to me via:
-* **GitHub Profile:** [https://github.com/Elyk-Adnuram](https://github.com/Elyk-Adnuram)
-* **Personal Website:** [www.kylemarunda.com](https://www.kylemarunda.com) (as per GitHub profile information)
-* **LinkedIn:** [https://www.linkedin.com/in/kyle-marunda-58409439](https://www.linkedin.com/in/kyle-marunda-58409439) (as per GitHub profile information)
+* [**GitHub Profile:**](https://github.com/Elyk-Adnuram)
+* [**Personal Website:**](https://www.kylemarunda.com)
+* [**LinkedIn:**](https://www.linkedin.com/in/kyle-marunda-58409439) 
