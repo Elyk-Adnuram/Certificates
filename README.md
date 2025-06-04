@@ -22,10 +22,10 @@ The certificates are organized into directories, usually by course name, platfor
 ## How to View
 To view the certificates, see the links below:
 * [**Front-End Web Development**](https://elyk-adnuram.github.io/Certificates/pages/certificate3.html)
-* **GitHub Profile:** [https://github.com/Elyk-Adnuram](https://github.com/Elyk-Adnuram)
-* **GitHub Profile:** [https://github.com/Elyk-Adnuram](https://github.com/Elyk-Adnuram)
-* **GitHub Profile:** [https://github.com/Elyk-Adnuram](https://github.com/Elyk-Adnuram)
-* **GitHub Profile:** [https://github.com/Elyk-Adnuram](https://github.com/Elyk-Adnuram)
+* [**Full Stack Web Developement Bootcamp**](https://elyk-adnuram.github.io/Certificates/pages/certificate1.html)
+* [**The Frontend Developer Career Path**](https://elyk-adnuram.github.io/Certificates/pages/certificate2.html)
+* [**GitHub Foundations Part 1 of 2**](https://elyk-adnuram.github.io/Certificates/pages/certificate4.html)
+* [**GitHub Foundations Part 2 of 2**](https://elyk-adnuram.github.io/Certificates/pages/certificate5.html)
 
 ## Contributing
 As this is a personal portfolio of my own achievements, contributions in the form of direct code changes or pull requests to add new certificates are not applicable.
